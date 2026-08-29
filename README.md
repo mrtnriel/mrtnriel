@@ -1,59 +1,82 @@
 <div align="center">
 
-# Hi 👋, I'm Gabriel Martin R. Manalo
+# Hi there, I'm Gabriel Martin R. Manalo 👋
 
-### 💻 Aspiring Full-Stack Developer | BSIT Student at PUP
+### 🚀 Aspiring Full-Stack Developer | BSIT Student @ Polytechnic University of the Philippines
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-martin-manalo-411a0134a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🚀 Languages & Tools
+## 💡 About Me
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40" hspace="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" hspace="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" hspace="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" hspace="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" hspace="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" hspace="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" hspace="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" hspace="8" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" hspace="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" hspace="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" hspace="8" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" hspace="8" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" hspace="8" />
-</p>
+* 🔭 I’m currently focused on building robust full-stack web applications and refining user-centered software design.
+* 🌱 Passionate about database architecture, relational query optimization, and modern cloud deployment workflows.
+* ⚡ Fun fact: I enjoy blending clean code principles with intuitive UI/UX design to build scalable digital solutions.
 
 ---
 
-## ⚡️ Connect With Me
+## 🛠️ Tech Stack & Tools
 
+### Languages & Frameworks
 <p align="left">
-  <a href="https://www.linkedin.com/in/gabriel-martin-manalo-411a0134a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" hspace="6" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" hspace="6" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" hspace="6" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" hspace="6" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" hspace="6" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" hspace="6" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" hspace="6" />
+</p>
+
+### Web & Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" hspace="6" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" hspace="6" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" hspace="6" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" hspace="6" />
+</p>
+
+### Developer Tools & Workflow
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" hspace="6" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" hspace="6" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40" hspace="6" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats & Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrtnriel&show_icons=true&locale=en&theme=transparent" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrtnriel&theme=transparent" alt="GitHub Streak" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mrtnriel&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" />
+  
+  <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrtnriel&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrtnriel&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-<p align="center">
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrtnriel&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mrtnriel&theme=flat" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mrtnriel&theme=radical" alt="GitHub Trophies" />
   </a>
-</p>
+
+</div>
