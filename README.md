@@ -7,7 +7,7 @@ BS Information Technology student at the Polytechnic University of the Philippin
 
 ```yaml
 # mrtnriel@github 
-focus: Full-stack web development & database architecture
+focus: Full-stack Web Development & Database Architecture
 learning: Frontend development, Backend development, REST APIs, and Database Design
 ```
 
