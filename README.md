@@ -14,7 +14,7 @@ learning: Frontend development, Backend development, REST APIs, and Database Des
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-martin-manalo-411a0134a)
 [![Email](https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-martinramirezasdw@gmail.com)
 
-## Tech Stack
+## Technologies I Use
 
 <div align="center">
 
