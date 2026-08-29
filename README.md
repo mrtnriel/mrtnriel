@@ -1,67 +1,30 @@
-<div align="center">
+<img align="right" src="https://komarev.com/ghpvc/?username=mrtnriel&style=flat-square&color=808080" alt="Profile Views"/>
 
-# Hi there, I'm Gabriel Martin R. Manalo 👋
+# Gabriel Martin R. Manalo
+*Aspiring Full-Stack Developer*
 
-### 🚀 Aspiring Full-Stack Developer | BSIT Student @ Polytechnic University of the Philippines
+BS Information Technology student at the Polytechnic University of the Philippines, passionate about **full-stack web development, database architecture, and cloud deployment workflows**.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-martin-manalo-411a0134a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
-</p>
+```yaml
+# mrtnriel@github ~ % fetch
+focus: Full-stack web development & database architecture
+learning: Cloud deployment workflows and UI/UX design
+```
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-martin-manalo-411a0134a)
+[![Email](https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
----
+## Tech Stack
 
-## 💡 About Me
+|  |  |  |
+|---|---|---|
+| **Languages**<br/><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" /> | **Frameworks**<br/><img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" /> | **Databases**<br/><img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white" /> |
+| **Web**<br/><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" /> | **Cloud & DevOps**<br/><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" /> | **Tools**<br/><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" /> |
 
-* 🔭 I’m currently focused on building robust full-stack web applications and refining user-centered software design.
-* 🌱 Passionate about database architecture, relational query optimization, and modern cloud deployment workflows.
-* ⚡ Fun fact: I enjoy blending clean code principles with intuitive UI/UX design to build scalable digital solutions.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### Languages & Frameworks
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" hspace="6" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" hspace="6" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" hspace="6" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" hspace="6" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" hspace="6" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" hspace="6" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" hspace="6" />
-</p>
-
-### Web & Databases
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" hspace="6" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" hspace="6" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" hspace="6" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" hspace="6" />
-</p>
-
-### Developer Tools & Workflow
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" hspace="6" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" hspace="6" />
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40" hspace="6" />
-</p>
-
----
-
-## 📈 GitHub Stats & Metrics
+## GitHub Stats
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrtnriel&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-<div align="center">
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrtnriel&theme=radical&hide_border=true" width="410"/>
 
 </div>
