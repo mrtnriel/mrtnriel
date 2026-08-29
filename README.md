@@ -25,7 +25,7 @@ learning: Frontend development, Backend development, REST APIs, and Database Des
 
 </div> 
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
