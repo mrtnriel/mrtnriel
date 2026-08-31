@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=mrtnriel&style=flat-square&color=808080" alt="Profile Views"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Gabriel+Martin!;3rd-Year+BSIT+Student+%40+PUP;Full-Stack+Developer;Network+Engineering+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Gabriel+Martin!;3rd-Year+BSIT+Student;Aspiring+Full-Stack+Developer" alt="Typing Animation" />
 </div>
 
 *Aspiring Full-Stack Developer*
